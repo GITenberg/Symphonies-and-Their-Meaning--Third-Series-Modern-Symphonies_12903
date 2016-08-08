@@ -1,0 +1,29 @@
+_repo: Symphonies-and-Their-Meaning--Third-Series-Modern-Symphonies_12903
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Goepp, Philip H. (Philip Henry)
+    aliases:
+    - Goepp, Philip Henry
+    - Goepp, P. H. (Philip Henry)
+    - Goepp, Phillip H. (Phillip Henry)
+    birthdate: 1864
+    deathdate: 1936
+    gutenberg_agent_id: '4701'
+    url: http://www.gutenberg.org/2009/agents/4701
+description: ''
+gutenberg_bookshelf: Music
+gutenberg_issued: '2004-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12903'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'MT'
+- !lcsh 'Symphonies -- Analysis, appreciation'
+- GITenberg
+title: Symphonies and Their Meaning; Third Series, Modern Symphonies
+url: http://www.gutenberg.org/ebooks/12903
