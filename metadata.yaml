@@ -1,5 +1,8 @@
 _repo: Symphonies-and-Their-Meaning--Third-Series-Modern-Symphonies_12903
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Goepp, Philip H. (Philip Henry)
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '4701'
     url: http://www.gutenberg.org/2009/agents/4701
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12903#Symphonies-and-Their-Meaning--Third-Series-Modern-Symphonies
 gutenberg_bookshelf: Music
 gutenberg_issued: '2004-07-13'
 gutenberg_type: Text
